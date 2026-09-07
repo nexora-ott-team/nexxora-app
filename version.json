@@ -1,13 +1,13 @@
 {
-  "versionCode": 121,
+  "versionCode": 122,
   "minVersionCode": 118,
-  "versionName": "1.0.0-rc21",
-  "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc21",
-  "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc21/nexxora-v1.0.0-rc21-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc21/nexxora-v1.0.0-rc21-armeabi-v7a.apk",
-  "releaseNotes": "Yetiskin katalogu yenilendi, canli akis dayanikliligi ve Skynet temiz IP destegi eklendi.",
-  "desktopVersionCode": 3,
-  "desktopVersionName": "1.0.2",
-  "desktopReleaseNotes": "Yetiskin katalogu yenilendi, canli akis dayanikliligi ve Skynet temiz IP destegi eklendi.",
-  "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.2/Nexora-1.0.2.exe"
+  "versionName": "1.0.0-rc22",
+  "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc22",
+  "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc22/nexxora-v1.0.0-rc22-arm64-v8a.apk",
+  "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc22/nexxora-v1.0.0-rc22-armeabi-v7a.apk",
+  "releaseNotes": "Goruntu ayarlari eklendi: parlaklik, kontrast, doygunluk ve renk sicakligi. Oynatici bilgi paneli duzeltildi, kaynak ekleme akisi iyilestirildi.",
+  "desktopVersionCode": 4,
+  "desktopVersionName": "1.0.3",
+  "desktopReleaseNotes": "Goruntu ayarlari cekirdege eklendi. Kaynak ekleme: M3U dosyasi, Stalker portali ve EPG destegi. Katalog afisleri ve kategori secimi duzeltildi.",
+  "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.3/Nexora-1.0.3.exe"
 }
