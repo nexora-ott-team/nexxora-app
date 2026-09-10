@@ -1,14 +1,14 @@
 {
-  "versionCode": 123,
-  "minVersionCode": 123,
-  "versionName": "1.0.0-rc23",
-  "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc23",
-  "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc23/nexxora-v1.0.0-rc23-arm64-v8a.apk",
-  "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc23/nexxora-v1.0.0-rc23-armeabi-v7a.apk",
-  "releaseNotes": "Yetiskin kaynaklar artik listenin sonunda goruntuleniyor ve uygulama acilista otomatik olarak yetiskin kaynagi secmiyor. Kaynak listesi siralamasi duzeltildi.",
-  "desktopVersionCode": 5,
-  "desktopMinVersionCode": 5,
-  "desktopVersionName": "1.0.4",
-  "desktopReleaseNotes": "Yetiskin kaynaklar listenin sonuna alindi. Kaynak siralamasi ve secimi duzeltildi.",
-  "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.4/Nexora-1.0.4.exe"
+  "versionCode": 124,
+  "minVersionCode": 124,
+  "versionName": "1.0.0-rc24",
+  "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc24",
+  "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc24/nexxora-v1.0.0-rc24-arm64.apk",
+  "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc24/nexxora-v1.0.0-rc24-armv7.apk",
+  "releaseNotes": "Global kanal listesi artik VLC motoruyla izleniyor; kanal acilmazsa oynatici ayarlarindan motoru VLC'ye alin. Kategoriler duzeltildi: spor kategorilerine karisan film ve dizi kanallari dogru yerlerine tasindi. Yayin izlerken arka planda liste guncellemesi yapilmiyor, donma ve ses kesilmeleri azaldi. Kanal menusunde gezinirken goruntu takilmasi giderildi.",
+  "desktopVersionCode": 6,
+  "desktopMinVersionCode": 6,
+  "desktopVersionName": "1.0.5",
+  "desktopReleaseNotes": "Global kanal listesi VLC ile izleniyor. Film ve dizi icerikleri artik Canli TV listesinde gorunmuyor. Kategoriler duzeltildi.",
+  "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.5/Nexora-1.0.5.exe"
 }
