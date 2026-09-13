@@ -1,14 +1,14 @@
 {
-  "versionCode": 130,
-  "minVersionCode": 130,
-  "versionName": "1.0.0-rc30",
-  "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc30",
-  "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc30/nexxora-v1.0.0-rc30-arm64.apk",
-  "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc30/nexxora-v1.0.0-rc30-armv7.apk",
-  "releaseNotes": "Canli yayin tamponlama ve stabilite iyilestirmeleri yapildi. Dinamik tema destegi eklendi. Oynatici kararliligi artirildi.",
-  "desktopVersionCode": 7,
-  "desktopMinVersionCode": 7,
-  "desktopVersionName": "1.0.6",
-  "desktopReleaseNotes": "Oynatici baslangic kararliligi artirildi. Canli yayin tamponlama iyilestirmeleri yapildi. Donma ve takilma sorunlari giderildi.",
-  "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.6/Nexora-1.0.6.exe"
+  "versionCode": 131,
+  "minVersionCode": 131,
+  "versionName": "1.0.0-rc31",
+  "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc31",
+  "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc31/nexxora-v1.0.0-rc31-arm64.apk",
+  "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc31/nexxora-v1.0.0-rc31-armv7.apk",
+  "releaseNotes": "Yeni dinamik tema secenekleri ve ozellestirilebilir arayuz eklendi. Canli yayin ve katalog siralamasi optimizasyonlari yapildi. Oynatici kararliligi ve akis devamliligi artirildi.",
+  "desktopVersionCode": 8,
+  "desktopMinVersionCode": 8,
+  "desktopVersionName": "1.0.7",
+  "desktopReleaseNotes": "Canli yayin ve katalog siralamasi optimizasyonlari yapildi. Oynatici baslangic kararliligi artirildi. Donma ve takilma sorunlari giderildi.",
+  "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.7/Nexora-1.0.7.exe"
 }
