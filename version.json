@@ -1,6 +1,6 @@
 {
   "versionCode": 141,
-  "minVersionCode": 140,
+  "minVersionCode": 141,
   "versionName": "1.0.0-rc41",
   "releaseNotes": "Performans iyilestirmeleri ve kararlilik duzeltmeleri.",
   "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc41/nexxora-v1.0.0-rc41-arm64.apk",
