@@ -2,7 +2,7 @@
   "versionCode": 155,
   "minVersionCode": 155,
   "versionName": "1.0.0-rc55",
-  "releaseNotes": "Premium ve standart kanal ayrımı, anında token aktivasyonu, sadeleştirilmiş 2 adımlı hediye süre akışı ve TV kumanda odak iyileştirmeleri.",
+  "releaseNotes": "Sistem bakım güncellemesi, kararlılık ve performans iyileştirmeleri.",
   "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc55/nexxora-v1.0.0-rc55-arm64.apk",
   "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc55/nexxora-v1.0.0-rc55-armv7.apk",
   "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc55",
