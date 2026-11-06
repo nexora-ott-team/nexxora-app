@@ -1,14 +1,14 @@
 {
-  "versionCode": 158,
-  "minVersionCode": 158,
-  "versionName": "1.0.0-rc58",
-  "releaseNotes": "Baglanti altyapisi ve kararlilik iyilestirmeleri. Oynatma guvenilirligi ve acilis hizi artirildi.",
-  "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc58/nexxora-v1.0.0-rc58-arm64.apk",
-  "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc58/nexxora-v1.0.0-rc58-armv7.apk",
-  "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc58",
-  "desktopVersionCode": 11,
-  "desktopMinVersionCode": 11,
-  "desktopVersionName": "1.0.10",
-  "desktopReleaseNotes": "Yeni CILLOPFLIX gorunumu, kanal listesi ve oynatma iyilestirmeleri, kararlilik duzeltmeleri.",
-  "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.10/Cillopflix-1.0.10.exe"
+    "versionCode":  159,
+    "minVersionCode":  159,
+    "versionName":  "1.0.0-rc59",
+    "releaseNotes":  "Sunucu altyapisi gecisi ve kararlilik iyilestirmeleri; zorunlu guncelleme.",
+    "apkUrlArm64":  "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc59/nexxora-v1.0.0-rc59-arm64.apk",
+    "apkUrlArmv7":  "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc59/nexxora-v1.0.0-rc59-armv7.apk",
+    "apkUrl":  "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc59",
+    "desktopVersionCode":  11,
+    "desktopMinVersionCode":  11,
+    "desktopVersionName":  "1.0.10",
+    "desktopReleaseNotes":  "Yeni CILLOPFLIX gorunumu, kanal listesi ve oynatma iyilestirmeleri, kararlilik duzeltmeleri.",
+    "desktopDownloadUrl":  "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.10/Cillopflix-1.0.10.exe"
 }
