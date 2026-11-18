@@ -6,9 +6,9 @@
     "apkUrlArm64": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc61/nexxora-v1.0.0-rc61-arm64.apk",
     "apkUrlArmv7": "https://github.com/nexora-ott-team/nexxora-app/releases/download/v1.0.0-rc61/nexxora-v1.0.0-rc61-armv7.apk",
     "apkUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/tag/v1.0.0-rc61",
-    "desktopVersionCode": 11,
-    "desktopMinVersionCode": 11,
-    "desktopVersionName": "1.0.10",
-    "desktopReleaseNotes": "Yeni CILLOPFLIX gorunumu, kanal listesi ve oynatma iyilestirmeleri, kararlilik duzeltmeleri.",
-    "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.10/Cillopflix-1.0.10.exe"
+    "desktopVersionCode": 12,
+    "desktopMinVersionCode": 12,
+    "desktopVersionName": "1.0.11",
+    "desktopReleaseNotes": "Kendi oynatma listeleriyle kullanım için güncellendi. Kararlılık iyileştirmeleri.",
+    "desktopDownloadUrl": "https://github.com/nexora-ott-team/nexxora-app/releases/download/desktop-v1.0.11/Cillopflix-1.0.11.exe"
 }
